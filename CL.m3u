@@ -1,31 +1,30 @@
 #EXTM3U
-#EXTINF:-1 tvg-name=”CHV”
+#EXTINF:-1,CHV
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/8asc3sn24.m3u8?s=qWYLq7IiU8PzgqLsulAG9Q&e=1616582951
-#EXTINF:-1 tvg-name=”TVN”
+#EXTINF:-1,TVN
 http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?WebM3UCL
-#EXTINF:-1 tvg-name=”Mega”
+#EXTINF:-1,Mega
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/caatd5.m3u8?s=J067saNBGuC1PPBJwT6P0A&e=1616583129
-#EXTINF:-1 tvg-name=”Canal 13”
+#EXTINF:-1,Canal 13
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/x6quo7hwucm1qwm.m3u8?s=2auKeoVOLf5hHC2fQTkFIA&e=1616583205
-#EXTINF:-1 tvg-name=”Cartoon Network”
+#EXTINF:-1,Cartoon Network
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/qu3uh7dppym53.m3u8?s=e-Z6J6GYzew_Tui-9kTSaQ&e=1616583312
-#EXTINF:-1 tvg-name=”Nick”
+#EXTINF:-1,Nick
 https://live.televisiongratishd.com/tvplus2023/110_.m3u8?token=nEeX60EF_Oh7lzDzvEl2qA&expires=1616565352&ip=201.219.236.208
-#EXTINF:-1 tvg-name=”NatGeo”
+#EXTINF:-1,NatGeo
 http://38.18.238.42:2095/405Natgeo/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
-#EXTINF:-1 tvg-name=”Discovery Channel”
+#EXTINF:-1,Discovery Channel
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/8ha8ro.m3u8?s=cYLFHOsQ2k9CQnxdV0k2NQ&e=1616583420
-#EXTINF:-1 tvg-name=”CNN Chile”
+#EXTINF:-1,CNN Chile
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
-#EXTINF:-1 tvg-name=”Animal Planet”
+#EXTINF:-1,Animal Planet
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/zfwban4sppn0.m3u8?s=1w6GHSpliuhRWSeuJYR1pA&e=1616583581
-#EXTINF:-1 tvg-name=”History Channel”
+#EXTINF:-1,History Channel
 https://live.televisiongratishd.com/tvplus2023/49_.m3u8?token=y_AA8V4jJj9TxW2I-FZLmA&expires=1616565617&ip=201.219.236.208
-#EXTINF:-1 tvg-name=”HBO”
+#EXTINF:-1,HBO
 https://tpgt36c4pw5cu56z.ezcdn483.net:8443/hls/kg5sav4l10.m3u8?s=Qc9YxjUMEjlSA2jq7Kr7eQ&e=1616583717
 
 
-#EXTINF:-1 tvg-name=”Los Simpsons”
+#EXTINF:-1,Los Simpsons
 http://usher.twitch.tv/api/channel/hls/simpson_mania.m3u8?player=twitchweb&sig=59ab98795453212f8382d518d5966fda69ee17ff&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22simpson_mania%22%2C%22channel_id%22%3A488631075%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3Anull%2C%22expires%22%3A1616562874%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22site%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22201.219.236.208%22%2C%22version%22%3A2%7D
-
 
